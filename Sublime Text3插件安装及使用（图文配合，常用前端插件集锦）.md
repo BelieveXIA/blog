@@ -10,8 +10,9 @@
 <h3 id="1">插件安装方法(这个是在软件内自动安装的方法)</h3>      
 
 1.打开Sublime Text3   
-2.第一次安装插件要先安装Package Control，Package Control可以说得上是软件的母插件，必须先安装。首先“ctrl+~”打开控制台，复制[Package Control官网](https://packagecontrol.io/installation)的安装代码，粘贴到控制台，“enter键”安装。使用Sublime Text3就选用Sublime Text3的官方插件安装代码    
-![](./img/Package Control-installation.PNG)
+2.第一次安装插件要先安装Package Control，Package Control可以说得上是软件的母插件，必须先安装。首先“ctrl+~”打开控制台，复制[Package Control官网](https://packagecontrol.io/installation)的安装代码，粘贴到控制台，“enter键”安装。使用Sublime Text3就选用Sublime Text3的官方插件安装代码       
+
+<img src="img/Package Control-installation.PNG">
 
 例如Sublime Text3的安装代码为
 ```
@@ -22,14 +23,14 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 4.到了这里就是真正开始安装我们需要的插件的步骤了，我们想安装什么插件最好先到[Package Control官网插件页](https://packagecontrol.io/browse)，看看所要安装插件的样式及说明，手动安装插件也是到这里下载插件包，放在软件的安装目录下的Package Control文件内就行。     
 5.首先“Ctrl+Shift+p”,输入pci,找到"Package Control:Install Package "选中，“enter键”确认，这时一般情况要等一会儿，才会出现新的输入框，然后输入插件名（例如“Emmet”）“enter键”确认进行安装。   
 
-![](./img/Package Control-installation2.PNG)
+<img src="img/Package Control-installation2.PNG">     
+<img src="img/Package Control-installation3.PNG">
 
-![](./img/Package Control-installation3.PNG)
 6.然后在安装好插件后，会有相应的代码提示，比如告诉你成功安装之类的，部分插件没有提示。    
 7.查看所安装的插件：“Ctrl+Shift+p”,输入pc,找到"Package Control:List Packages "选中，“enter键”确认，这时一般情况要等一会儿，就会出现你所安装的插件了
-![](./img/Package Control-installation4.PNG)
 
-![](./img/Package Control-installation5.PNG)
+<img src="img/Package Control-installation4.PNG">
+<img src="img/Package Control-installation5.PNG">
 
 <h3 id="2">最常用的插件</h3>       
 
