@@ -234,3 +234,4 @@ var client = function(){
 </body>
 </html>
 ```
+**客户端检测另一部分是[能力检测和怪癖检测](https://juejin.im/post/5dd00058e51d453d970d8280)**
